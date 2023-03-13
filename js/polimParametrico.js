@@ -1,0 +1,1 @@
+//Parametros de cualquier tipo(Genericos)
